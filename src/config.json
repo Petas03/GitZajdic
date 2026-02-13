@@ -1,0 +1,1 @@
+{"wifi": {"ssid": "your_wifi_ssid","password": "your_wifi_password"},"api": {"base_url": "https://api.example.com","key": "your_api_key"}}
