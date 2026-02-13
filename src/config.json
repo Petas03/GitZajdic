@@ -1,1 +1,1 @@
-{"wifi": {"ssid": "your_wifi_ssid","password": "your_wifi_password"},"api": {"base_url": "https://api.example.com","key": "your_api_key"}}
+{\n  \"wifi\": {\n    \"ssid\": \"your_wifi_ssid\",\n    \"password\": \"your_wifi_password\"\n  },\n  \"api\": {\n    \"base_url\": \"https://your.api.endpoint\",\n    \"api_key\": \"your_api_key\"\n  }\n}
